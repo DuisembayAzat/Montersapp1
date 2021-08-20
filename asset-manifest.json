@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Montersapp1/static/css/main.91416765.chunk.css",
+    "main.js": "/Montersapp1/static/js/main.57daf7b7.chunk.js",
+    "main.js.map": "/Montersapp1/static/js/main.57daf7b7.chunk.js.map",
+    "runtime-main.js": "/Montersapp1/static/js/runtime-main.c620605e.js",
+    "runtime-main.js.map": "/Montersapp1/static/js/runtime-main.c620605e.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/Montersapp1/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6d99e149.chunk.js": "/Montersapp1/static/js/2.6d99e149.chunk.js",
+    "static/js/2.6d99e149.chunk.js.map": "/Montersapp1/static/js/2.6d99e149.chunk.js.map",
+    "static/js/3.f3218633.chunk.js": "/Montersapp1/static/js/3.f3218633.chunk.js",
+    "static/js/3.f3218633.chunk.js.map": "/Montersapp1/static/js/3.f3218633.chunk.js.map",
+    "index.html": "/Montersapp1/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/Montersapp1/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.91416765.chunk.css.map": "/Montersapp1/static/css/main.91416765.chunk.css.map",
+    "static/js/2.6d99e149.chunk.js.LICENSE.txt": "/Montersapp1/static/js/2.6d99e149.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c620605e.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.6d99e149.chunk.js",
+    "static/css/main.91416765.chunk.css",
+    "static/js/main.57daf7b7.chunk.js"
+  ]
+}
